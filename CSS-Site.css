@@ -1,0 +1,25 @@
+header h1{
+  margin-left: 40%;
+  padding-top:1px;
+  font-family: "Great Vibes", cursive;
+  font-size:52pt;
+}
+
+header .search{
+  float : right;
+}
+
+header img {
+  position:absolute;
+  top:1px;
+}
+
+header a{
+  font-family: "Great Vibes", cursive;
+  font-size: 19pt;
+  color:darkblue ;
+  position:absolute;
+  top: 1%;
+  right: 2%;
+}
+
