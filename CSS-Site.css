@@ -1,8 +1,49 @@
+table {
+  position: absolute;
+  top:43%;
+  left:22%;
+  width:75%;
+	border: 1px solid black ;
+	border-radius: 0.5em 0.5em 0.5em 0.5em ;  
+}
+
+table th {
+  	border: 1px solid black ;
+	border-radius: 0.5em 0.5em 0.5em 0.5em ;
+}
+
+th img{
+ 
+  height: 300px;
+}
+
+aside {
+  width: 20%;
+  background-color: #ebe6ff;
+  padding: 2px 1px 1px 10px;
+	border: 1px solid black ;
+	border-radius: 0.5em 0.5em 0.5em 0.5em ;
+  font-family: "Great Vibes", cursive;
+    font-size:16pt;
+}
+
 header h1{
-  margin-left: 40%;
-  padding-top:1px;
+  
+  margin-left: 35%;
+  margin-right:35%;
+  padding :10px 25px 5px 38px;
   font-family: "Great Vibes", cursive;
   font-size:52pt;
+	border: 4px solid black ;
+	border-radius: 0.5em 0.5em 0.5em 0.5em ;
+}
+
+header {
+  padding: 5% 0% 3% 0%;
+  background-image: url("assets/test2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
 }
 
 header .search{
@@ -10,6 +51,7 @@ header .search{
 }
 
 header img {
+  height: 3em;
   position:absolute;
   top:1px;
 }
@@ -17,6 +59,7 @@ header img {
 header a{
   font-family: "Great Vibes", cursive;
   font-size: 19pt;
+  font-size: ;
   color:darkblue ;
   position:absolute;
   top: 1%;
