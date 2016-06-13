@@ -1,3 +1,17 @@
+footer{
+  font-family: "Great Vibes", cursive;
+  font-size:40pt;
+  text-align:center;
+}
+
+footer a{
+	padding: 0px 15px 0px 8px;
+	color:darkblue;
+	text-decoration:none;
+	border: 1px solid black ;
+	border-radius: 0.5em 0.5em 0.5em 0.5em ;
+	background-color:#ddff99;
+}
 header h1{
   
   margin-left: 35%;
@@ -24,7 +38,7 @@ header .search{
 header img {
   height: 3em;
   position:absolute;
-  top:1px;
+  top:9px;
 }
 
 header a{
@@ -37,7 +51,7 @@ header a{
   right: 2%;
 }
 
-img {
+div img{
   height:20em;
   float: right;
   margin:2em;

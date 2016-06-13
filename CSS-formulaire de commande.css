@@ -1,7 +1,22 @@
+footer{
+  font-family: "Great Vibes", cursive;
+  font-size:40pt;
+  text-align:center;
+}
+
+footer a{
+	padding: 0px 15px 0px 8px;
+	color:darkblue;
+	text-decoration:none;
+	border: 1px solid black ;
+	border-radius: 0.5em 0.5em 0.5em 0.5em ;
+	background-color:#ddff99;
+}
+
 header h1{
   
   margin-left: 35%;
-  margin-right:35%;
+  margin-right:24%;
   padding :10px 25px 5px 38px;
   font-family: "Great Vibes", cursive;
   font-size:52pt;
@@ -20,7 +35,7 @@ header {
 header img {
   height: 3em;
   position:absolute;
-  top:1px;
+  top:9px;
 }
 
 header a{
@@ -32,6 +47,7 @@ header a{
   right: 2%;
 }
 
+
 #achat{
 	padding-left:45%;
 	font-size: 200%;
@@ -39,11 +55,13 @@ header a{
 
 p {
   text-align: center;
-  margin-top: 13%;
+  margin-top: 8%;
   width:100%;
   font-size:20pt;
+  font-style:italic;
 }
 
 body {
-  background-color: #ebe6ff;
+	font-family:sans-serif;
+	background-color: #ebe6ff;
 }
