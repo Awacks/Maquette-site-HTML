@@ -1,0 +1,70 @@
+#Mimozas
+{
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom:20px;
+}
+
+#Tulipe
+{
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 25px;
+}
+
+#Rose
+{
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 20px;
+}
+
+h1
+{
+  text-align: center;
+  border-bottom: solid black 2px;
+}
+
+header h1{
+
+  margin-left: 35%;
+  margin-right:35%;
+  padding :10px 25px 5px 38px;
+  font-family: "Great Vibes", cursive;
+  font-size:52pt;
+	border: 4px solid black ;
+	border-radius: 0.5em 0.5em 0.5em 0.5em ;
+}
+
+header {
+  padding: 5% 0% 3% 0%;
+  background-image: url("assets/test2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+
+header .search{
+  float : right;
+}
+
+header img {
+  height: 3em;
+  position:absolute;
+  top:1px;
+}
+
+header a{
+  font-family: "Great Vibes", cursive;
+  font-size: 19pt;
+  font-size: ;
+  color:darkblue ;
+  position:absolute;
+  top: 1%;
+  right: 2%;
+}
+
+Description
+{
+  text-align: center;
+}
