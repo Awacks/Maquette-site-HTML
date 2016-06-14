@@ -15,7 +15,7 @@ footer a{
 
 header h1{
   
-  margin-left: 35%;
+  margin-left: 33%;
   margin-right:24%;
   padding :10px 25px 5px 38px;
   font-family: "Great Vibes", cursive;
@@ -48,16 +48,16 @@ header a{
 }
 
 
-#achat{
-	padding-left:45%;
-	font-size: 200%;
+#formcommande{
+	padding:1% 0% 0% 40%;
+	font-size: 170%;
 }
 
 p {
   text-align: center;
-  margin-top: 8%;
+  margin-top: 6	%;
   width:100%;
-  font-size:20pt;
+  font-size:18pt;
   font-style:italic;
 }
 
