@@ -6,7 +6,7 @@
 	border-radius: 0.5em 0.5em 0.5em 0.5em ;
 }
 
-.imgarticle{
+#imgarticle{
 	float:left;
 	height: 400px;
 	margin:10px 20px 0px 0px ;
@@ -14,11 +14,11 @@
 	border-radius: 0.5em 0.5em 0.5em 0.5em ;
 }
 
-.article {
+#article {
 	font-family:sans-serif;
 }
 
-.article h2{
+#article h2{
 	font-family:"Great Vibes", cursive;
 	font-size:40pt;
 }
